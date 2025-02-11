@@ -7,7 +7,7 @@ Here-in you can find a Java implementation of an automatic player for the Murus 
 
 ## Algorithm ##
 
-A parallelized implementeation of the **Mini-Max** algorithm with **Alpha-Beta Prunining** has been provided.   
+A parallel implementeation of the **Mini-Max** algorithm with **Alpha-Beta Prunining** has been provided.   
 
 
 ## Heuristic ##

@@ -1,6 +1,6 @@
 # README #
 
-This project has been developed for the Artificial Intelligence and Knwoledge Rapresentation and Reasoning class by [t0re199](https://github.com/t0re199), [adel3roman6](https://github.com/adel3roman6) and [Rosaria97](https://github.com/Rosaria97).  
+This project has been developed for the Artificial Intelligence and Knowledge Representation and Reasoning class by [t0re199](https://github.com/t0re199), [adel3roman6](https://github.com/adel3roman6) and [Rosaria97](https://github.com/Rosaria97).  
       
 Here-in you can find a Java implementation of an automatic player for the Murus Gallicus game.    
 

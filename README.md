@@ -17,7 +17,7 @@ Provided heuristic is based on a **heatmap**.
 
 ## Player Characteristics ##
 
-The player implements an adaptive game strategy: research space tree's depth is determined at runtime by taking into account the elapsed time reqired to perform the previous moves.
+The player implements an adaptive game strategy: research space tree's depth is determined at runtime by taking into account the time reqired to perform the previous moves.
 
 
 ## Requirements ##
